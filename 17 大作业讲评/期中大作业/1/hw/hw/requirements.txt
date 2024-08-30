@@ -1,0 +1,11 @@
+python==3.9
+numpy
+pandas
+jupyter
+matplotlib
+scikit-learn
+PIL
+opencv-python
+img2vec-pytorch
+torch
+torchvision
